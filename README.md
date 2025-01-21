@@ -6,4 +6,4 @@ How to install:
 3. Now, copy and paste `Kurdish` to `/Library/Keyboard Layouts`
 4. Done, that's it
 
-![image]([files://C:/Users/jzhang/Desktop/Isolated.png](https://github.com/bahmanworld/kurdish-keyborad-for-mac/blob/main/screenshot.png))
+[![image](https://github.com/bahmanworld/kurdish-keyborad-for-mac/blob/main/screenshot.png)
